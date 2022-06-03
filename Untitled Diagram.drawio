@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T15:05:10.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.70" etag="27Q9xhL-K92jFY9KDtvF" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T15:18:08.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.70" etag="SVz_yK7qrBO4_ds-WIbT" version="19.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1381" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="CorlOHuww0UGS4W2-4X7-0" value="Realizar cadastro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="CorlOHuww0UGS4W2-4X7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CorlOHuww0UGS4W2-4X7-0" target="CorlOHuww0UGS4W2-4X7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-0" value="Início do cadastro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CorlOHuww0UGS4W2-4X7-1" value="O participante tem mais de 18 anos?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="100" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="CorlOHuww0UGS4W2-4X7-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CorlOHuww0UGS4W2-4X7-0" target="CorlOHuww0UGS4W2-4X7-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="260" as="sourcePoint" />
-            <mxPoint x="440" y="210" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CorlOHuww0UGS4W2-4X7-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CorlOHuww0UGS4W2-4X7-1" target="CorlOHuww0UGS4W2-4X7-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,6 +87,24 @@
         </mxCell>
         <mxCell id="CorlOHuww0UGS4W2-4X7-26" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="569.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CorlOHuww0UGS4W2-4X7-27" target="CorlOHuww0UGS4W2-4X7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CorlOHuww0UGS4W2-4X7-27" target="CorlOHuww0UGS4W2-4X7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-27" value="A data do evento é posterior a data atual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="-40" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-29" value="Cadastro não permitido por data inválida" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-32" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="291" y="-20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CorlOHuww0UGS4W2-4X7-33" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
